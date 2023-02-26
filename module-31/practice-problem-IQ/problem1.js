@@ -18,7 +18,7 @@ I am a web developer. I love to code. I love to eat biryani.
 const firstLine = 'I am a web developer.';
 const secondLine = 'I love to code.';
 const thirdLine = 'I love to eat biryani.'
-// console.log(`${firstLine} ${secondLine} ${thirdLine}`);
+console.log(`${firstLine} ${secondLine} ${thirdLine}`);
 
 
 
